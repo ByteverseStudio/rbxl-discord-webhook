@@ -1,0 +1,11 @@
+[package]
+name = "newspicel/discordwebhook"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "Discord Webhook Sender Library, more infos: https://github.com/EverbyteGaming/rbxl-discord-webhook"
+license = "MIT"
+authors = ["Newspicel <github@newspicel.dev>"]
+exclude = ["selene.toml", "roblox.toml", "build.rbxmx", "test"]
+
+[dependencies]

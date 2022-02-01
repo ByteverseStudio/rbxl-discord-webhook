@@ -1,0 +1,6 @@
+{
+  "name": "DiscordWebhook",
+  "tree": {
+    "$path": "src"
+  }
+}
