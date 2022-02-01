@@ -4,12 +4,12 @@ Discord Webhook Libary to Sending Discord Webhooks from Roblox
 
 ## Installation 
 
-Enable "Allow HTTP Rquests" in Game Settings or (Rojo Config)[]
+Enable "Allow HTTP Rquests" in Game Settings or Rojo Config
 
 ### Method-1 
 Use Wally -> https://wally.run/package/newspicel/discordwebhook
 ### Method-2
-Copy DiscordWebhook.lua in own Module Script
+Copy [DiscordWebhook.lua]([https://github.com/EverbyteGaming/rbxl-discord-webhook/blob/main/src/DiscordWebhook.lua]) in own Module Script
 ### Method-3
 Use Builded .rbxmx and import into Serverscript Folder
 
