@@ -75,3 +75,5 @@ embed:setProvider(name: string, url: string)
 ## Proxy
 When you become 403 when you sending Webhooks on Roblox server, use a Proxy like: https://webhook.lewistehminerz.dev/
 Usage: Simply replace discord.com with webhook.lewistehminerz.dev in your webhook URL when sending. That's it.
+
+Or setup your own Proxy: https://github.com/LewisTehMinerz/webhook-proxy
